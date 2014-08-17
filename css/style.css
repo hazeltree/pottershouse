@@ -968,6 +968,7 @@ input[type="reset"].small,
   padding-left: 0.05em;
   position: relative;
   text-transform: uppercase;
+  font-family: 'Cinzel';
 }
 /* line 803, ../sass/style.scss */
 #banner .inner p {
@@ -1221,4 +1222,18 @@ body.index #main {
 #sidePanel .indent-5 {
   display: inline-block;
   width: 5em;
+}
+
+#logo {
+  font-family: 'Cinzel';
+}
+#logo span {
+  font-family: 'Lato';
+}
+#cta h2 strong {
+  font-family: 'Cinzel';
+  font-size: 48px;
+}
+#cta .address {
+  font-size:22px;
 }
